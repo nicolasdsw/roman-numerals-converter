@@ -8,7 +8,8 @@ Instruções para executação:
 Obs: O argumento pode ser tanto um número inteiro quanto em algarismos romanos.
 
 
-Descrição da resolução do problema:
+Descrição da resolução do problema: 
+
 Para a resolução do problema foram criados dois vetores na classe RomanNumeralConverter, 
 um com os valores inteiros em algarismos arábicos e outro com os algarismos romanos nas respectivas posições.
 
