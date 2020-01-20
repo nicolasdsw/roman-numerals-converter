@@ -7,6 +7,7 @@ Instruções para executação:
 - java -jar RomanConverter.jar argumento  
 Obs: O argumento pode ser tanto um número inteiro quanto em algarismos romanos.
 
+Obs 2: Necessário JAVA 11 ou superior, devido a utilização do novo método repeat da classe String.
 
 Descrição da resolução do problema: 
 
